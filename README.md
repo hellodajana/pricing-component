@@ -13,4 +13,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Link](hellodajana-pricing-component.netlify.app)
+- Live Site URL: [Link](https://hellodajana-pricing-component.netlify.app/)
